@@ -1,0 +1,24 @@
+{
+  "name": "react-aliyun-upload",
+  "version": "1.0.0",
+  "description": "react aliyun upload components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slacrey/react-aliyun-upload.git"
+  },
+  "keywords": [
+    "react",
+    "aliyun",
+    "upload"
+  ],
+  "author": "237242115@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slacrey/react-aliyun-upload/issues"
+  },
+  "homepage": "https://github.com/slacrey/react-aliyun-upload#readme"
+}
